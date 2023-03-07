@@ -28,5 +28,5 @@
 
 17 - A)  62 subredes con 2 hosts
 
-
+18 - B) 128 subredes y 510 hosts
 
