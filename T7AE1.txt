@@ -10,4 +10,7 @@
     D) 11011001.01001010.01101001.00110011
     E) 10011111.01001011.00111111.00101011
 
+8 - C) 126 subredes con 510 hosts
+
+8.2 - E) Ninguna de las respuestas es correcta.
 
